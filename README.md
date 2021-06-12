@@ -7,3 +7,10 @@ Windows/Linux/macOS
 Jupyter Notebook/Google Colab/PyCharm
 
 Programming Language: Python
+
+Processor intel core i3 or above 
+
+Minimum RAM 4GB
+
+HardDisk 256GB
+
