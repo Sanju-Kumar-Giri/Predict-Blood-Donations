@@ -14,3 +14,5 @@ Minimum RAM 4GB
 
 HardDisk 256GB
 
+Library: Numpy, Pandas, Sklearn, Operator, TPOT
+
