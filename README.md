@@ -3,5 +3,7 @@ Forecasting blood supply is a serious and recurrent problem for blood collection
 
 # Requirements
 Windows/Linux/macOS
+
 Jupyter Notebook/Google Colab/PyCharm
+
 Programming Language: Python
