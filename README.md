@@ -11,18 +11,12 @@ The Code is written in Python 3.6.10. If you don't have Python installed you can
 
 pip install -r requirements.txt
 
-# Requirements
+# Technology 
 Windows/Linux/macOS
 
 Jupyter Notebook/Google Colab/PyCharm
 
 Programming Language: Python
-
-Processor intel core i3 or above 
-
-Minimum RAM 4GB
-
-HardDisk 256GB
 
 Library: Numpy, Pandas, Sklearn, Operator, TPOT
 
