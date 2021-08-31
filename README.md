@@ -1,17 +1,17 @@
 # Predict-Blood-Donations
 
-# Overview 
+# 📝 Overview 
 Forecasting blood supply is a serious and recurrent problem for blood collection managers.In this Project, work with data collected from the donor database of Blood TransfusionService Center.  The dataset, obtained from the Machine Learning Repository, consists of arandom sample of 748 donors. We use tpot library to automate your Machine Learning pipeline.
 
-# Motivation
+# 💪 Motivation
 I started to learn Data science to explore my carrier in Data world. I learned different methodologies and tools to achieve and solve real world problems. Finally it is important to work on application (real world application) to actually make a difference.
 
-# Installation
+# 📀 Installation
 The Code is written in Python 3.6.10. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after cloning the repository:
 
 pip install -r requirements.txt
 
-# Technology 
+# 🛠⚙ Technology 
 Windows/Linux/macOS
 
 Jupyter Notebook/Google Colab/PyCharm
