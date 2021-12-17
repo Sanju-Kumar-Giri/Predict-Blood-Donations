@@ -14,7 +14,7 @@ pip install -r requirements.txt
 # 🛠⚙ Technology 
 Windows/Linux/macOS
 
-Jupyter Notebook/Google Colab/PyCharm
+Jupyter Notebook
 
 Programming Language: Python
 
